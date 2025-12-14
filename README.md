@@ -59,3 +59,4 @@ The model is pretrained on large English speech datasets and can directly perfor
 
 - "audio.wav"
   Sample WAV audio file containing speech input.
+  <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/fb247264-6e69-4659-ad57-9bf12e67823d" />
